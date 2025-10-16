@@ -3,7 +3,7 @@
 CodSoft Python Programming Internship
 
 ## Author
-[Your Name] - October 2025
+[Abhishek Kumar] - October 2025
 
 ## How to Run
 
