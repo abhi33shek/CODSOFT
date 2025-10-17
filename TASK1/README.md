@@ -1,11 +1,19 @@
-# Password Generator - Task 1
+"""
+Password Generator - CodSoft Internship
 
-CodSoft Python Programming Internship
+How to Run:
+------------
+1. Open Terminal/Command Prompt.
+2. Navigate to the project folder containing main.py:
+   cd path/to/password_generator
+3. Run the program:
+   python main.py
 
-## Author
-[Abhishek Kumar] - October 2025
+Features:
+- Select password length and character types.
+- Generates strong secure passwords.
+- Shows password strength.
 
-## How to Run
-
-**IMPORTANT: Run from the Task1-PasswordGenerator folder!**
-
+Author: [Your Name], October 2025
+"""
+# (rest of your code here)
